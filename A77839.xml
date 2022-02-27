@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonder of wonders. Being a faithful narrative and true relation of one Anne Green, servant to Sir Tho. Reed in Oxfordshire, who being got with child by a gentleman, her child falling from her in the house or office, being but a span long, and dead born, was condemned on the 14. of December last, and hanged in the castle-yard in Oxford, for the space of half and hour, receiving many great and heavy blowes on the brests, by the but end of the souldiers muskets, and being pul'd down by the leggs, and was afterwards beg'd for an anatomy, by the physicians, and carried to Mr. Clarkes house, an apothecary, where in the presence of many learned chyrurgions, she breathed, and began to stir; insomuch, that Dr. Petty caused a warm bed to be prepared for her, let her blood, and applyed oyls to her, so that in 14 hours she recovered, and the first words she spake were these; behold Gods providence! Behold his miraculous and loving kindness! VVith the manner of her tryal, her speech and confession at the gallowes; and a declaration of the souldiery touching her recovery. Witnessed by Dr. Petty, and licensed according to order.</title>
+            <author>Burdet, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77839</idno>
+            <idno type="STC">Wing B5620</idno>
+            <idno type="STC">Thomason E621_11</idno>
+            <idno type="STC">ESTC R206418</idno>
+            <idno type="EEBO-CITATION">99865580</idno>
+            <idno type="PROQUEST">99865580</idno>
+            <idno type="VID">117825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117825)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E621[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonder of wonders. Being a faithful narrative and true relation of one Anne Green, servant to Sir Tho. Reed in Oxfordshire, who being got with child by a gentleman, her child falling from her in the house or office, being but a span long, and dead born, was condemned on the 14. of December last, and hanged in the castle-yard in Oxford, for the space of half and hour, receiving many great and heavy blowes on the brests, by the but end of the souldiers muskets, and being pul'd down by the leggs, and was afterwards beg'd for an anatomy, by the physicians, and carried to Mr. Clarkes house, an apothecary, where in the presence of many learned chyrurgions, she breathed, and began to stir; insomuch, that Dr. Petty caused a warm bed to be prepared for her, let her blood, and applyed oyls to her, so that in 14 hours she recovered, and the first words she spake were these; behold Gods providence! Behold his miraculous and loving kindness! VVith the manner of her tryal, her speech and confession at the gallowes; and a declaration of the souldiery touching her recovery. Witnessed by Dr. Petty, and licensed according to order.</title>
+                  <author>Burdet, W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>John Clowes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W. Burdet.</note>
+                  <note>Imprint from Madan.</note>
+                  <note>Annotation on Thomason copy: "Jan: 10. 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death, Apparent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117825:1" rendition="simple:additions"/>
+            <p>A Wonder of Wonders. BEING A faithful <hi>Narrative</hi> and true <hi>Relation,</hi> of one <hi>Anne Green,</hi> Servant to Sir <hi>Tho. Reed</hi> in <hi>Oxfordſhire,</hi> who being got with Child by a Gentleman, her Child falling from her in the houſe or Office, being but a ſpan long, and dead born, was condemned on the 14. of <hi>December</hi> laſt, and hanged in the Caſtle-yard in <hi>Oxford,</hi> for the ſpace of half an hour, receiving many great and heavy blowes on the breſts, by the but end of the Souldiers Muskets, and being pul'd down by the leggs, and was afterwards beg'd for an Anatomy, by the Phyſicians, and carried to Mr. <hi>Clarkes</hi> houſe, an Apothecary, where in the preſence of many learned Chyrurgions, ſhe breathed, and began to ſtir; inſomuch, that Dr. <hi>Petty</hi> cauſed a warm bed to be prepared for her, let her blood, and applyed Oyls to her, ſo that in 14 hours ſhe recovered, and the firſt words ſhe ſpake were theſe; <hi>Behold Gods Providence! Behold his mi<g ref="char:EOLhyphen"/>raculous and loving kindneſs!</hi> VVith the manner of her Tryal, her Speech and Confeſſion at the Gallowes; and a Declaration of the Souldiery touching her recovery<g ref="char:punc">▪</g> 
+               <hi>Witneſſed by Dr. Petty, and Licenſed according to Order.</hi>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man and a woman in a bed; a coffin; a woman with a covered face hanging from a gallows with a man pulling down her feet, another man striking her with the butt of his rifle, and a woman kneeling at the base of the ladder</figDesc>
+                  <p>Behold Gods providence.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117825:2"/>
+            <pb n="1" facs="tcp:117825:2"/>
+            <head>A Wonder of Wonders, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the 14. of <hi>December</hi> laſt, there happened a very ſtrange paſſage con<g ref="char:EOLhyphen"/>cerning a Maid, <hi>Anne Green</hi> by name, which was got with Child, by an <hi>Ox<g ref="char:EOLhyphen"/>ford-ſhire</hi> Gentleman, the particulars whereof follow.</p>
+            <p>This <hi>Anne Green,</hi> Servant to Sir <hi>Thomas Read,</hi> being very buſie at turning of <hi>Mault,</hi> over-reaching her ſelf, found her ſelf to be very ill; whereupon ſhe immediatly went into the houſe of Office, remaining about a quarter of an hour, full of pain; at laſt, a Child, about a ſpan long ſprung from her, but abortive, which much impair'd her health and ſtrength; but being exceeding fearful, that a diſcovery ſhould be made thereof, ſhe laid it in a Cor<g ref="char:EOLhyphen"/>ner of the aforeſaid houſe, and covered it with duſt and rubbiſh.</p>
+            <pb n="2" facs="tcp:117825:3"/>
+            <p>During which time, one of her fellow-Servants, admi<g ref="char:EOLhyphen"/>ring that ſhe ſtaid ſo long, and hearing many heavy groans, went to ſee what was become of her, who found her in a very ſad and deplorable condition, and asking her what the matter was? ſhe reply'd, <hi>ſhe was utterly un<g ref="char:EOLhyphen"/>done, undone, undone;</hi> Why <hi>Anne,</hi> I hope thou art not with Child? Alas, alas! <hi>Mary,</hi> that ever I was born, to live and die in ſhame and ſcorn: I was, but now I am clear of it; Why? what is become of it? ſhe anſwer<g ref="char:EOLhyphen"/>ed, look yonder, where it lies, and going to the place, caſting off the duſt, ran ſhricking out into the houſe, ac<g ref="char:EOLhyphen"/>quainting her Maſter and Miſtriſs, with this ſad accident; in ſo much, that they preſently ſent for her in, and de<g ref="char:EOLhyphen"/>manded who it was, that had committed that foul act, and contemptible crime with her? who anſwered, a Gentle<g ref="char:EOLhyphen"/>man of good birth, and kinſman to a juſtice of Peace.</p>
+            <p>But after half an hours diſcourſe, ſhe was carried be<g ref="char:EOLhyphen"/>fore a Juſtice, who upon examination, confeſſed, that ſhe was guilty of the Act, in committing of the ſin, but clear and innocent of the crime for murdering of it, for that it was dead born; yet notwithſtanding, after fur<g ref="char:EOLhyphen"/>ther examination, the Juſtice cauſed her <hi>Mittimus</hi> to be made, inditing her to anſwer it at the next Aſſizes, and forth-with ſent her to the Caſtle Goal at <hi>Oxford,</hi> where ſhe remained till the Seſſions; at which time, ſhe was arraigned for her life, who being brought to the Bar, pleaded, <hi>not guilty;</hi> but after a ſhort tryal, ſhe was con<g ref="char:EOLhyphen"/>victed for her life, and received ſentence to be hanged on <hi>Oxford</hi> Gallowes, which was accordingly performed; and being brought to the place of execution, ſhe fell down on her knees at the ladder foot, humbly deſiring of God, that his Divine Majeſty would be pleaſed, to ſhew ſome remarkable judgement on her, for a ſignal
+<pb n="3" facs="tcp:117825:3"/> and teſtification to the world of her innocency, which moſt miraculouſly was evidenced to her, to the great and wonderful admiration to all that ſhall either hear of, or read theſe enſuing lines.</p>
+            <p>But before I inſiſt upon this miraculous deliverance, it is requiſite that I ſhould communicate her ſpeech and deportment upon the Ladder, which was with great comfort, and undauntedneſs of ſpirit by this poor ſoul performed, to the great admiration of the ſpecta<g ref="char:EOLhyphen"/>tors.</p>
+            <p>At the going up the Ladder, ſhe fixt her eyes on the Executioner, ſaying, God forgive my falſe accuſers, as I freely forgive thee, and then turning her ſelf on the Lad<g ref="char:EOLhyphen"/>der uttered theſe words.</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <opener>
+                     <salute>Dear Friends,</salute>
+                  </opener>
+                  <p>YOur buſineſs hither to day, is to ſee a ſad ſpectacle, an innocent woman to be in a moment cut off, in the prime of her years, which ſudden change doth not in the leaſt ſtrike dread or terror to my heart, but rather incites me to a motion of eternal joy and happineſs; for I con<g ref="char:EOLhyphen"/>ceive, there is no more but this Rope and Ladder between me and Heaven, and I doubt not but that I am now go<g ref="char:EOLhyphen"/>ing to receive that bleſſed Portion, which my bleſſed Sa<g ref="char:EOLhyphen"/>viour and Redeemer Jeſus Chriſt hath purchaſed for me, by ranſoming my ſoul with his precious blood, and bit<g ref="char:EOLhyphen"/>ter paſſion.</p>
+                  <pb n="4" facs="tcp:117825:4"/>
+                  <p>And as for this untimely end, I do unfaignedly ac<g ref="char:EOLhyphen"/>knowledge and confeſs, that it is Gods juſt judgement and wrath upon me, for ſins long unrepented, of many judgements withſtood, and mercies ſlighted: therefore God hath whipped me by his ſevere rod of correction, that he might not loſe me.</p>
+                  <p>I pray joyn with me in prayer, that it may not be a fruitleſs rod, that when by this rod I have laid down my life, by this ſtaffe I may be comforted, and received into glory.</p>
+                  <p>One thing more I deſire, and to you dear Couſen, be<g ref="char:EOLhyphen"/>ing a young man, ſtanding at the foot of the ladder) I re<g ref="char:EOLhyphen"/>preſent my ſuit, That when the doomful turn from off the ladder comes, that you would uſe all poſſible means to diſpatch me of my pain; and then caſting up her eyes to Heaven, being prepared for a new change of life, breathed forth her laſt words, ſaying, <hi>ſweet Jeſus receive my ſoul;</hi> upon the uttering of which words, the Execu<g ref="char:EOLhyphen"/>tioner did his Office; and being turned off the ladder, her kinſman took hold of her feet, and hung with all the weight and force of his body on them, that ſo he might the ſooner rid her of her pain.</p>
+               </body>
+            </floatingText>
+            <p>A <hi>Souldier</hi> ſtanding by, gave her 4. or 5. blowes on the breſt, with the but end of his Musket, and having hung half an hour, ſhe was cut down, (being quite dead) and put into the Chyrurgions Cheſt, (who had beg'd her for an Anatomy) and carried to Mr. <hi>Clarkes</hi> houſe, an <hi>A<g ref="char:EOLhyphen"/>pothecary,</hi> where the <hi>Phyſitions</hi> met to try their skill; and having prefixed a time for the reading a Lecture over her, (being uſual upon the anatomizing of either man or woman.)</p>
+            <p>When they were all met, her body was taken out of the Coffin, and laid upon a large Table, where in the preſence of them all, ſhe began to breath, which was no
+<pb n="5" facs="tcp:117825:4"/> ſmall terror nor admiration, to all that were then preſent; whereupon a large diſpute aroſe about her, and one amongſt the reſt, Dr. Petty by name, went to her, took her by the hand, and laid his eare to her temples, and perceiv<g ref="char:EOLhyphen"/>ing life, declared that there was a great hand of God in the buſineſs, and imediately let her blood in 3 places. After which he cauſed a warm bed to be prepared for her, and a woman to lie with her, and applied ſeveral Oyls unto her, uſing many other circumſtances of art, until she recovered, which was within 14 hours: And even in the laſt minute of the 14 hour, she o<g ref="char:EOLhyphen"/>pened her eyes, uttering theſe words. Behold Gods providence, and his wonder of wonders, which indeed, is a deliverance ſo remarkable, ſince the ceaſing of Miracles, that it cannot be parallel'd in all Ages, for the ſpace of 300 years, And withall, it may remain upon record, for a preſident to all Magiſtrates, and Courts of Ju<g ref="char:EOLhyphen"/>dicature, to take a ſpecial care in denounſing of ſentence, without a due and legal proceſs, ac<g ref="char:EOLhyphen"/>cording to the known Laws of the Land, by an impartial and uncorrupted Jury, either of men or women, &amp;c. This poor Creature, which God of his infinite mercy hath evidently mani<g ref="char:EOLhyphen"/>feſted
+<pb n="6" facs="tcp:117825:5"/> his love unto, is now indifferent well recover<g ref="char:EOLhyphen"/>ed, and can walk up and down her Chamber, but her neck is very ſore, and black withall, her breſt and ſtomack much bruiſed, yet her pain diſſwages daily, and divers both in City and Countrey frequent hourly to behold her. At her firſt recovery ſhe ſeemed to be much agaſt, and lookt ſtrangly, her eyes being ready to ſtart out of her head; but by the great pains of honeſt and faithful Dr. Petty, ſhe is m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raculouſly recover<g ref="char:EOLhyphen"/>ed which moved ſome of her enemies to wrath and indignation, inſomuch that a great man a<g ref="char:EOLhyphen"/>mongſt the reſt, moved to have her again car<g ref="char:EOLhyphen"/>ried to the place of execution, to be hanged up by the neck, contrary to all Law, reaſon and juſtice; but ſome honeſt Souldiers then preſent, ſeemed to be very much diſcontented thereat, and declared, That there was a great hand of God in it, and having ſuffered the Law, it was contrary to all right and reaſon, that any fur<g ref="char:EOLhyphen"/>ther puniſhment ſhould be inflicted upon her, which words brought a final end and period to their diſpute and controverſie; where I ſhall (at preſent) deſiſt from reciting any further cir<g ref="char:EOLhyphen"/>cumſtances, and remain,</p>
+            <closer>
+               <signed>Your obliged Servitor, <hi>W. BURDET.</hi>
+               </signed>
+               <dateline>
+                  <hi>Oxford</hi> 
+                  <date>
+                     <hi>Jan</hi> 13. 1651.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
